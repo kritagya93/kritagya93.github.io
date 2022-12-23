@@ -10,7 +10,7 @@ author_profile: true
 ---
 * 2021 IEEE Information Theory Workshop (ITW), Kanazawa
 * 26th Australasian Conference on Information Security and Privacy
-
+* Information Processing & Management Journal, Elsevier
 
 ## Professional Organization Member
 
