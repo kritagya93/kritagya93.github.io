@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
+
 
  <li><b>Project 1: Paradigm Shift from Ambiguous Legal Contracts to Smart Legal Contracts </b>
  <p>This project will continue my current research, and I will keep on addressing the open research problems regarding ambiguity and implementation issues of converting an ambiguous legal contract to a blockchain-based smart legal contract.</p>
