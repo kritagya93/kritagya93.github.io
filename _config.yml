@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kritagya Raj Upadhyay"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, Department of Computer Science and Engineering, University of North Texas"
-  location         : "333 Bernard St, Denton, TX, 76201, USA"
+  bio              : "PhD Candidate, <br> Department of Computer Science and Engineering, University of North Texas"
+  location         : "333 Bernard St, <br> Denton, TX, 76201, USA"
   employer         : University of North Texas 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bhEKUskAAAAJ&hl=en"
