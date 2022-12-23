@@ -5,17 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Project 1: Paradigm Shift from Ambiguous Legal Contracts to Smart Legal Contracts
 
+---
+This project will continue my current research, and I will keep on addressing the open research problems regarding ambiguity and implementation issues of converting an ambiguous legal contract to a blockchain-based smart legal contract.
+* **Aim 1:** Develop formal methodologies that consist of efficient models and algorithms that address current challenges in translating natural language contracts to smart legal contracts.
+* **Aim 2:** Investigate and incorporate the Type-2 Fuzzy Logic and Decision Tree algorithms that help in decision-making for the selection of the most suitable interpretation from a set of ambiguous words and phrases.
+* **Aim 3:** Explore more on Contextual AI and NLP-based Fuzzy Logic and how it facilitates the automated generation of a realistic and feasible smart legal contract.
 
-
- <li><b>Project 1: Paradigm Shift from Ambiguous Legal Contracts to Smart Legal Contracts </b>
- <p>This project will continue my current research, and I will keep on addressing the open research problems regarding ambiguity and implementation issues of converting an ambiguous legal contract to a blockchain-based smart legal contract.</p>
-    <ul>
-      <li><b>Aim 1:</b> Develop formal methodologies that consist of efficient models and algorithms that address current challenges in translating natural language contracts to smart legal contracts.</li>
-      <li><b>Aim 2:</b> Investigate and incorporate the Type-2 Fuzzy Logic and Decision Tree algorithms that help in decision-making for the selection of the most suitable interpretation from a set of ambiguous words and phrases.</li>
-	  <li><b>Aim 3:</b> Explore more on Contextual AI and NLP-based Fuzzy Logic and how it facilitates the automated generation of a realistic and feasible smart legal contract. </li>
-    </ul>
- </li>
  
  ---
  
