@@ -12,7 +12,7 @@ author_profile: true
 
 * A. Salau, R. Dantu, **K. Upadhyay**, S. Badruddoja, “Data Cooperatives for Trusted News Sharing in Social Media,” <i>	EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications.</i>
 
-* S. Badruddoja, R. Dantu, Y. He, A. Salau, **K. Upadhyay**, “Scalable Smart Contracts for Linear Regression Algorithm,” <i> EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications.</i>
+* S. Badruddoja, R. Dantu, Y. He, A. Salau, **K. Upadhyay**, “Scalable Smart Contracts for Linear Regression Algorithm,” <i> EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications.</i> <br> Full text available at <a href="https://www.researchgate.net/publication/366548107_Scalable_Smart_Contracts_for_Linear_Regression_Algorithm"> ResearchGate</a>.
 
 * A. Salau, R. Dantu, K. Morozov, S. Badruddoja and **K. Upadhyay**, "Making Blockchain Validators Honest," <i> 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA),</i> 2022, pp. 267-273, doi: 10.1109/BCCA55292.2022.9921952. <br> Full text available at <a href="https://www.researchgate.net/publication/365107055_Making_Blockchain_Validators_Honest"> ResearchGate</a>.
 
