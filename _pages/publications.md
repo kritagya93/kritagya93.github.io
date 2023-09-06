@@ -5,10 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+
+---
+* 1.	S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce,” <i> IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023)</i>, 2023.
+
+
+
 ## 2022
 
 ---
-* **K. Upadhyay**, R. Dantu, Y. He, S. Badruddoja and A. Salau, “Auditing Metaverse Requires Multimodal Deep Learning,” <i> 2022 Fourth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA),</i> 2022.
+* **K. Upadhyay**, R. Dantu, Y. He, S. Badruddoja and A. Salau, “Auditing Metaverse Requires Multimodal Deep Learning,” <i> 2022 Fourth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)</i>, 2022.
 
 * A. Salau, R. Dantu, **K. Upadhyay**, S. Badruddoja, “Data Cooperatives for Trusted News Sharing in Social Media,” <i>	EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications.</i>
 
