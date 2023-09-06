@@ -19,4 +19,4 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## Openings
-I am looking for self-motivated students to work on projects related to Blockchain and Smart Contracts, Cybersecurity, Natural Language Processing, Artificial Intelligence, Metaverse, and other various cool topics. If you are interested and dedicated, please drop me an email with your CV. 
+I am looking for self-motivated students to work and research on projects related to Blockchain and Smart Contracts, Cybersecurity, Natural Language Processing, Artificial Intelligence, Metaverse, and other various emerging hot topics. If you are interested and dedicated, please drop me an email with your CV. 
