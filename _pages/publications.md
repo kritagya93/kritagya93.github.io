@@ -8,7 +8,7 @@ author_profile: true
 ## 2023
 
 ---
-* 1.	S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce,” <i> IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023)</i>, 2023.
+* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce,” <i> IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023)</i>, 2023.
 
 
 

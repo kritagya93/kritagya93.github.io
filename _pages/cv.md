@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://kritagya93.github.io/files/1.CV_Kritagya_Upadhyay.pdf)
+[Download CV here](https://kritagya93.github.io/files/CV_Kritagya_Upadhyay.pdf) 
 
 <!--Education
 ======
