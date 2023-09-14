@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Computer Science](https://www.mtsu.edu/csc/) at the [Middle Tennessee State University (MTSU)](https://www.mtsu.edu/) specializing in the area of **Blockchain and Smart Contracts, Artificial Intelligence, Data Cooperatives and Security, Fuzzy Logic, and Metaverse**. I am also affiliated with [Computational and Data Science](https://www.mtsu.edu/programs/computational-science-phd/faculty).
 
-I obtained my Ph.D. in Computer Sciene and Engineering under the mentorship of [Prof. Dr. Ram Dantu](https://computerscience.engineering.unt.edu/people/faculty/ram-dantu) from [University of North Texas](https://computerscience.engineering.unt.edu/). 
+I obtained my Ph.D. in Computer Science and Engineering under the mentorship of [Prof. Dr. Ram Dantu](https://computerscience.engineering.unt.edu/people/faculty/ram-dantu) from [University of North Texas](https://computerscience.engineering.unt.edu/). 
 
 My research involves designing architectures, models, and algorithms with sound theoretical foundations and building prototype systems. Additionally, I am involved in few other projects: **Blockchain for Trusted Artificial Intelligence and Big Data**, **Vagueness Detection and Interpretation Ranking in Legal Contracts using ChatGPT**, **Data Cooperatives for Privacy and Security**, and **Applications for Secured Metaverse**. The principal motivation behind my research work is to develop efficient and enabling solutions for real-world issues in emerging and novel technologies concerning uncertainty, trust, privacy, and security.
 
