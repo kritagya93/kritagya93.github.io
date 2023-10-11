@@ -20,9 +20,9 @@ author_profile: true
 ## 2022
 
 ---
-* **K. Upadhyay**, R. Dantu, Y. He, S. Badruddoja and A. Salau, “Auditing Metaverse Requires Multimodal Deep Learning,” <i> 2022 Fourth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)</i>, 2022.
+* **K. Upadhyay**, R. Dantu, Y. He, S. Badruddoja and A. Salau, "Auditing Metaverse Requires Multimodal Deep Learning," <i> 2022 IEEE 4th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA) </i>, Atlanta, GA, USA, 2022, pp. 39-46, doi: 10.1109/TPS-ISA56441.2022.00015. <br> Full text available at <a href="https://www.researchgate.net/publication/369283345_Auditing_Metaverse_Requires_Multimodal_Deep_Learning"> ResearchGate</a>.
 
-* A. Salau, R. Dantu, **K. Upadhyay**, S. Badruddoja, “Data Cooperatives for Trusted News Sharing in Social Media,” <i>	EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications.</i>
+* A. Salau, R. Dantu, **K. Upadhyay**, S. Badruddoja, “Data Cooperatives for Trusted News Sharing in Social Media,” <i>	EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications.</i> <br> Full text available at <a href="https://www.researchgate.net/publication/370390766_Data_Cooperatives_for_Trusted_News_Sharing_in_Social_Media"> ResearchGate</a>.
 
 * S. Badruddoja, R. Dantu, Y. He, A. Salau, **K. Upadhyay**, “Scalable Smart Contracts for Linear Regression Algorithm,” <i> EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications.</i> <br> Full text available at <a href="https://www.researchgate.net/publication/366548107_Scalable_Smart_Contracts_for_Linear_Regression_Algorithm"> ResearchGate</a>.
 
