@@ -23,7 +23,6 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
----
 * [9/23] Our paper "The Dark Side of the Metaverse: Why is it Falling Short of Expectations?" got accepted in <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> 
 
 * [9/23] Our paper "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap" got accepted in <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA </i>
