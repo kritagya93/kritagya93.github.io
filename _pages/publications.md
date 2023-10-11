@@ -13,7 +13,7 @@ author_profile: true
 
 * S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>
 
-* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru and **K. Upadhyay**, "Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce," <i> 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) </i>, Kyoto, Japan, 2023, pp. 9-16, doi: 10.1109/MetaCom57706.2023.00018. <br> Full text available at <a href="https://ieeexplore.ieee.org/document/10271796"> IEEE Xplore </a>.
+* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru and **K. Upadhyay**, "Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce," <i> 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) </i>, Kyoto, Japan, 2023, pp. 9-16, doi: 10.1109/MetaCom57706.2023.00018. <br> Full text available at <a href="https://ieeexplore.ieee.org/document/10271796"> IEEE Xplore</a>.
 
 
 
