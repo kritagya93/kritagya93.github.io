@@ -8,7 +8,12 @@ author_profile: true
 ## 2023
 
 ---
-* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce,” <i> IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023)</i>, 2023.
+
+* S. Talapuru, R. Dantu, **K. Upadhyay**, S. Badruddoja, S. Zaman, “The Dark Side of the Metaverse: Why is it Falling Short of Expectations?,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>
+
+* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>
+
+* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru and **K. Upadhyay**, "Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce," <i> 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) </i>, Kyoto, Japan, 2023, pp. 9-16, doi: 10.1109/MetaCom57706.2023.00018. <br> Full text available at <a href="https://ieeexplore.ieee.org/document/10271796"> IEEE Xplore </a>.
 
 
 
@@ -29,7 +34,7 @@ author_profile: true
 
 * S. Badruddoja, R. Dantu, Y. He, M. Thompson, A. Salau and **K. Upadhyay**, "Making Smart Contracts Predict and Scale," <i> 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA)</i>, 2022, pp. 127-134, doi: 10.1109/BCCA55292.2022.9922480. <br> Full text available at <a href="https://www.researchgate.net/publication/365104621_Making_Smart_Contracts_Predict_and_Scale"> ResearchGate</a>. <br> <b> <font color="DarkRed">Best Research Paper Award</font></b>
 
-* Salau, A., Dantu, R., Morozov, K., **Upadhyay, K.**, & Badruddoja, S. (2022). Multi-Tier Reputation for Data Cooperatives. In <i> The 3rd International Conference on Mathematical Research for Blockchain Economy</i>.
+* Salau, A., Dantu, R., Morozov, K., **Upadhyay, K.**, & Badruddoja, S. (2022). Multi-Tier Reputation for Data Cooperatives. In <i> The 3rd International Conference on Mathematical Research for Blockchain Economy</i>. <br> Full text available at <a href="https://www.researchgate.net/profile/Abiola-Salau-2/publication/368656999_Multi-Tier_Reputation_for_Data_Cooperatives/links/6404bff8574950594566ebdb/Multi-Tier-Reputation-for-Data-Cooperatives.pdf"> ResearchGate</a>.
 
 * Salau, A.; Dantu, R.; Morozov, K.; **Upadhyay, K.** and Badruddoja, S. (2022). Towards a Threat Model and Security Analysis for Data Cooperatives. In <i> Proceedings of the 19th International Conference on Security and Cryptography - SECRYPT</i>, ISBN 978-989-758-590-6; ISSN 2184-7711, pages 707-713. DOI: 10.5220/0011328700003283. <br> Full text available at <a href="https://www.researchgate.net/publication/362010983_Towards_a_Threat_Model_and_Security_Analysis_for_Data_Cooperatives"> ResearchGate</a>.
 
