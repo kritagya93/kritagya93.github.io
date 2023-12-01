@@ -23,7 +23,7 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
-* [11/23] Second position awarded to MTSU graduate student **Samir Poudel** for his poster presentation on **Empowering AI’s Trust and Big Data Resources in Healthcare Industry with Blockchain** at the <i> ACM Mid-Southeast Conference </i> in Gatlinburg, Tennessee
+* [11/23] Second position awarded to MTSU graduate student **Samir Poudel** for his poster presentation on "**Empowering AI’s Trust and Big Data Resources in Healthcare Industry with Blockchain**" at the <i> ACM Mid-Southeast Conference </i> in Gatlinburg, Tennessee
 
 * [11/23] Best Paper Award for "**Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap**" at <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>  
 
@@ -37,6 +37,6 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 * [6/23] Poster Presentation of "**Paradigm Shift from Vague Legal Contracts to Blockchain-based Smart Contracts**" at <i> 2023 CAE in Cybersecurity Symposium </i>, Seattle, WA, USA
 
-* [5/23] Received **Outstanding Ph.D. Student Award** from Department of Computer Science and Engineering, University of North Texas
+* [5/23] Received **Outstanding Ph.D. Student Award** from the Department of Computer Science and Engineering, University of North Texas
 
 * [9/22] Best Paper Award for "**Making Smart Contracts Predict and Scale**" at <i> 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA) </i>  
