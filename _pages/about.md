@@ -23,18 +23,20 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
-* [11/23] Best Paper Award for "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap" at <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>  
+* [11/23] Second Position awarded to MTSU graduate student Samir Poudel for poster presentation on **Empowering AI’s Trust and Big Data Resources in Healthcare Industry with Blockchain** at the <i> ACM Mid-Southeast Conference </i> in Gatlinburg, Tennessee
 
-* [9/23] Our paper "The Dark Side of the Metaverse: Why is it Falling Short of Expectations?" got accepted in <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> 
+* [11/23] Best Paper Award for **Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap** at <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>  
 
-* [9/23] Our paper "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap" got accepted in <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>
+* [9/23] Our paper **The Dark Side of the Metaverse: Why is it Falling Short of Expectations?** got accepted in <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> 
 
-* [8/23] Best Poster Award for "Making Smart Contracts Predict and Scale" at <i> Hot Topics in the Science of Security (HotSoS) 2023 </i> from National Security Agency (NSA)
+* [9/23] Our paper **Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap** got accepted in <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>
+
+* [8/23] Best Poster Award for **Making Smart Contracts Predict and Scale** at <i> Hot Topics in the Science of Security (HotSoS) 2023 </i> from National Security Agency (NSA)
 
 * [8/23] Moved to Nashville Metropolitan Area to join **Middle Tennessee State University (MTSU)** as an Assistant Professor in the Department of Computer Science
 
-* [6/23] Poster Presentation of "Paradigm Shift from Vague Legal Contracts to Blockchain-based Smart Contracts" at <i> 2023 CAE in Cybersecurity Symposium </i>, Seattle, WA, USA
+* [6/23] Poster Presentation of **Paradigm Shift from Vague Legal Contracts to Blockchain-based Smart Contracts** at <i> 2023 CAE in Cybersecurity Symposium </i>, Seattle, WA, USA
 
-* [5/23] Received Outstanding Ph.D. Student Award from Department of Computer Science and Engineering, University of North Texas
+* [5/23] Received **Outstanding Ph.D. Student Award** from Department of Computer Science and Engineering, University of North Texas
 
-* [9/22] Best Paper Award for "Making Smart Contracts Predict and Scale" at <i> 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA) </i>  
+* [9/22] Best Paper Award for **Making Smart Contracts Predict and Scale** at <i> 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA) </i>  
