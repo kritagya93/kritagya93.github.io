@@ -9,7 +9,7 @@ author_profile: true
 ## Email
 
 ---
-* kritagya.upadhyay@mtsu.edu
+* kritagya [dot] upadhyay [at] mtsu.edu
 
 
 ## Office Phone Number

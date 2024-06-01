@@ -4,7 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+* Blockchain, Smart Contracts and Applications. <i> 2024 First ACM Chapter Meeting, Department of Computer Science, Middle Tennessee State University, Murfreesboro, TN, USA. </i>
 * Paradigm Shift from Vague Legal Contracts to Blockchain-based Smart Contracts. <i> 2023 CAE in Cybersecurity Symposium, Seattle, WA, USA.</i>
 * Auditing Metaverse Requires Multimodal Deep Learning. <i> The 4th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, Atlanta, GA, USA. </i>
 * Data Cooperatives for Trusted News Sharing in Social Media. <i> EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications, Copenhagen, Denmark. </i>

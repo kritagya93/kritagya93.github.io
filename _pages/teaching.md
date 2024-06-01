@@ -7,7 +7,10 @@ author_profile: true
 
 ## Middle Tennessee State University
 ---
-* CSCI 4900/6600 -  Selected Topics in Computer Science: Blockchain and Smart Contracts, Fall 2023.
+* CSCI 4900/6600 - Selected Topics in Computer Science: Blockchain and Smart Contracts, Fall 2023.
+* CSCI 1170 - Computer Science I, Spring 2024. 
+* CSCI 4450/5450 - Blockchain and Smart Contracts, Fall 2024.
+* CSCI 1170 - Computer Science I, Fall 2024. 
 
 
 ## University of North Texas

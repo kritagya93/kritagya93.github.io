@@ -41,11 +41,11 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 * [9/23] Our paper "**The Dark Side of the Metaverse: Why is it Falling Short of Expectations?**" got accepted at the <i> 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2023) </i> in Atlanta, Georgia, USA 
 
-* [9/23] Our paper "**Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap**" got accepted at the <i> 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2023) </i> in Atlanta, Georgia, USA 
-
 * [8/23] Best Poster Award for "**Making Smart Contracts Predict and Scale**" at <i> Hot Topics in the Science of Security (HotSoS) 2023 </i> from National Security Agency (NSA)
 
 * [8/23] Moved to Nashville Metropolitan Area to join **Middle Tennessee State University (MTSU)** as an Assistant Professor in the Department of Computer Science
+
+* [6/23] Our paper "**Layerwise Interoperaility in Metaverse: Key to Next-Generation Electronic Commerce**" got accepted at the <i> IEEE International Conference on Metaverse Computing, Networking and Applications (IEEE MetaCom 2023) </i> in Kyoto, Japan
 
 * [6/23] Poster Presentation of "**Paradigm Shift from Vague Legal Contracts to Blockchain-based Smart Contracts**" at the <i> 2023 CAE in Cybersecurity Symposium </i>, Seattle, Washington, USA
 
