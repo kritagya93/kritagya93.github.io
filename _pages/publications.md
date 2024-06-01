@@ -23,11 +23,11 @@ author_profile: true
 
 ---
 
-* S. Talapuru, R. Dantu, **K. Upadhyay**, S. Badruddoja, S. Zaman, “The Dark Side of the Metaverse: Why is it Falling Short of Expectations?,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i>
+* S. Talapuru, R. Dantu, **K. Upadhyay**, S. Badruddoja, S. Zaman, “The Dark Side of the Metaverse: Why is it Falling Short of Expectations?,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> <br> Full text available at <a href="https://www.researchgate.net/publication/378278851_The_Dark_Side_of_the_Metaverse_Why_is_it_Falling_Short_of_Expectations"> ResearchGate</a>.
 
-* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> <br> <b> <font color="DarkRed">Best Research Paper Award</font></b>
+* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> <br> Full text available at <a href="https://www.researchgate.net/publication/378273987_Seamless_Asset_Exchange_in_Interconnected_Metaverses_Unraveling_On-Chain_Atomic_Swap"> ResearchGate</a>. <br> <b> <font color="DarkRed">Best Research Paper Award</font></b>
 
-* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru and **K. Upadhyay**, "Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce," <i> 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) </i>, Kyoto, Japan, 2023, pp. 9-16, doi: 10.1109/MetaCom57706.2023.00018. <br> Full text available at <a href="https://ieeexplore.ieee.org/document/10271796"> IEEE Xplore</a>.
+* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru and **K. Upadhyay**, "Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce," <i> 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) </i>, Kyoto, Japan, 2023, pp. 9-16, doi: 10.1109/MetaCom57706.2023.00018. <br> Full text available at <a href="https://www.researchgate.net/publication/374525395_Layerwise_Interoperability_in_Metaverse_Key_to_Next-Generation_Electronic_Commerce"> ResearchGate</a>.
 
 
 
