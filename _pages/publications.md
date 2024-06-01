@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 ## 2024
-* Jiblal Upadhya, **Kritagya Upadhyay**, Arpan Sainju, Samir Poudel, Md Nahid Hasan, Khem Poudel, Jaishree Ranganathan,"VulnFusion: Exploiting Multimodal Representations for Adanced Smart Contract Vulnerability Detection," <i> 6th International Conference on Blockchain Computing and Applications (BCCA 2024), Dubai, UAE. </i>
+* Jiblal Upadhya, **Kritagya Upadhyay**, Arpan Sainju, Samir Poudel, Md Nahid Hasan, Khem Poudel, Jaishree Ranganathan, "VulnFusion: Exploiting Multimodal Representations for Adanced Smart Contract Vulnerability Detection," <i> 6th International Conference on Blockchain Computing and Applications (BCCA 2024), Dubai, UAE. </i>
 
 * Syed Badruddoja, Ram Dantu, Mark Dockendorf, Abiola Salau, **Kritagya Upadhyay**, "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement," <i> 21st International Conference on Security and Cryprography (SECRYPT 2024), Dijon, France. </i>
 
-* Harshit Kumar, **Kritayga Upadhyay**, "Decentralized Engagement: Blockchain's Lens on Social Media," <i> 6th International Congress on Blockchain and Applications (BLOCKCHAIN'24), Salamanca, Spain. </i>
+* Harshit Kumar, **Kritagya Upadhyay**, "Decentralized Engagement: Blockchain's Lens on Social Media," <i> 6th International Congress on Blockchain and Applications (BLOCKCHAIN'24), Salamanca, Spain. </i>
 
 * Jiblal Upadhya, **Kritagya Upadhyay**, Arpan Sainju, Samir Poudel, Md Nahid Hasan, Khem Poudel, Jaishree Ranganathan, "QuadraCode AI: Smart Contract Vulnerability Detection with Multimodal Representation," <i> 33rd International Conference on Computer Communications and Networks (ICCCN 2024), Big Island, Hawaii, USA. </i>
 
-* Thuan Nhan, **Kritagya Upadhyay**, and Khem Poudel. 2024. "Towards Patient-Centric Healthcare: Leveraging Blockchain for Electronic Health Records". <i> In Proceedings of the 2024 Computers and People Research Conference (SIGMIS-CPR '24), Murfreesboro, TN, USA </i>. Association for Computing Machinery, New York, NY, USA, Article 13, 1–8. https://doi.org/10.1145/3632634.3655883. <br> Full text available at <a href="https://www.researchgate.net/publication/380980308_Towards_Patient-Centric_Healthcare_Leveraging_Blockchain_for_Electronic_Health_Records"> ResearchGate </a>.
+* Thuan Nhan, **Kritagya Upadhyay**, and Khem Poudel. 2024. "Towards Patient-Centric Healthcare: Leveraging Blockchain for Electronic Health Records". <i> In Proceedings of the 2024 Computers and People Research Conference (SIGMIS-CPR '24), Murfreesboro, TN, USA </i>. Association for Computing Machinery, New York, NY, USA, Article 13, 1–8. https://doi.org/10.1145/3632634.3655883. <br> Full text available at <a href="https://www.researchgate.net/publication/380980308_Towards_Patient-Centric_Healthcare_Leveraging_Blockchain_for_Electronic_Health_Records"> ResearchGate</a>.
 
-* Matthew I. Swindall, **Kritagya Upadhyay**, James H. Brusuelas, Graham West, and John F. Wallin. 2024. "Smart Digital Edition Management: A Blockchain Framework for Papyrology". <i> In Proceedings of the 2024 Computers and People Research Conference (SIGMIS-CPR '24), Murfreesboro, TN, USA </i>. Association for Computing Machinery, New York, NY, USA, Article 11, 1–10. https://doi.org/10.1145/3632634.3655860. <br> Full text available at <a href="https://www.researchgate.net/publication/380990948_Smart_Digital_Edition_Management_A_Blockchain_Framework_for_Papyrology"> ResearchGate </a>.
+* Matthew I. Swindall, **Kritagya Upadhyay**, James H. Brusuelas, Graham West, and John F. Wallin. 2024. "Smart Digital Edition Management: A Blockchain Framework for Papyrology". <i> In Proceedings of the 2024 Computers and People Research Conference (SIGMIS-CPR '24), Murfreesboro, TN, USA </i>. Association for Computing Machinery, New York, NY, USA, Article 11, 1–10. https://doi.org/10.1145/3632634.3655860. <br> Full text available at <a href="https://www.researchgate.net/publication/380990948_Smart_Digital_Edition_Management_A_Blockchain_Framework_for_Papyrology"> ResearchGate</a>.
 
 
 ## 2023
