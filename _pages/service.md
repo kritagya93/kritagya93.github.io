@@ -15,6 +15,8 @@ author_profile: true
 ## Ad-hoc Reviewer
 
 ---
+* Symmetry Journal, MDPI
+* ACM SIGMIS Computers and People Research 2024
 * 5th International Conference on Blockchain Computing and Applications (BCCA 2023)
 * 5th International Congress on Blockchain and Applications (BLOCKCHAIN'23)
 * 2021 IEEE Information Theory Workshop (ITW), Kanazawa
@@ -24,4 +26,5 @@ author_profile: true
 ## Professional Organization Member
 
 ---
-* IEEE Student
+* IEEE 
+* ACM Professional

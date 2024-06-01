@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2024
-* Jiblal Upadhya, **Kritagya Upadhyay**, Arpan Sainju, Samir Poudel, Md Nahid Hasan, Khem Poudel, Jaishree Ranganathan, "VulnFusion: Exploiting Multimodal Representations for Adanced Smart Contract Vulnerability Detection," <i> 6th International Conference on Blockchain Computing and Applications (BCCA 2024), Dubai, UAE. </i>
+* Jiblal Upadhya, **Kritagya Upadhyay**, Arpan Sainju, Samir Poudel, Md Nahid Hasan, Khem Poudel, Jaishree Ranganathan, "VulnFusion: Exploiting Multimodal Representations for Advanced Smart Contract Vulnerability Detection," <i> 6th International Conference on Blockchain Computing and Applications (BCCA 2024), Dubai, UAE. </i>
 
 * Syed Badruddoja, Ram Dantu, Mark Dockendorf, Abiola Salau, **Kritagya Upadhyay**, "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement," <i> 21st International Conference on Security and Cryprography (SECRYPT 2024), Dijon, France. </i>
 
