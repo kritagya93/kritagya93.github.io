@@ -17,7 +17,7 @@ author_profile: true
 
 * J. Upadhya, A. Sainju, **K. Upadhyay**, S. Poudel, M.N. Hasan, K. Poudel and J. Ranganathan, "VulnFusion: Exploiting Multimodal Representations for Advanced Smart Contract Vulnerability Detection," <i> 2024 6th International Conference on Blockchain Computing and Applications (BCCA) </i> , Dubai, United Arab Emirates, 2024, pp. 505-515, doi: 10.1109/BCCA62388.2024.10844483. <br> Full text available at <a href="https://ieeexplore.ieee.org/document/10844483"> IEEE Xplore</a>.
 
-* Badruddoja, S., Dantu, R., Dockendorf, M., Salau, A. and **Upadhyay, K.** (2024). Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement. In <i> Proceedings of the 21st International Conference on Security and Cryptography (SECRYPT 2024) </i>, pages 786-791. DOI: 10.5220/0012813400003767. <br> Full text available at <a href="https://www.scitepress.org/Papers/2024/128134/128134.pdf"> SciTePress</a>
+* Badruddoja, S., Dantu, R., Dockendorf, M., Salau, A. and **Upadhyay, K.** (2024). Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement. In <i> Proceedings of the 21st International Conference on Security and Cryptography (SECRYPT 2024) </i>, pages 786-791. DOI: 10.5220/0012813400003767. <br> Full text available at <a href="https://www.scitepress.org/Papers/2024/128134/128134.pdf"> SciTePress</a>.
 
 * Harshit Kumar, **Kritagya Upadhyay**, "Decentralized Engagement: Blockchain's Lens on Social Media," <i> 6th International Congress on Blockchain and Applications (BLOCKCHAIN'24), Salamanca, Spain. </i>
 
