@@ -23,7 +23,7 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
-* [12/24] Our paper "**Examining The Threat Landscape of Generative AI: Attack Vectors and Mitigation Strategies for LLMs**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
+* 🎉 [12/24] Our paper "**Examining The Threat Landscape of Generative AI: Attack Vectors and Mitigation Strategies for LLMs**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
 
 * [12/24] Our paper "**Chain Your Loot: Implementing Blockchain Into Gaming Loot Box Markets**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
 
