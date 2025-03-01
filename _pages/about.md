@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Computer Science](https://www.mtsu.edu/csc/) at the [Middle Tennessee State University (MTSU)](https://www.mtsu.edu/) specializing in the area of **Blockchain and Smart Contracts, Artificial Intelligence, Data Cooperatives and Security, Fuzzy Logic, and Metaverse**. 
+I am an Assistant Professor in the [Department of Computer Science](https://www.mtsu.edu/csc/) at the [Middle Tennessee State University (MTSU)](https://www.mtsu.edu/) specializing in the area of **Cybersecurity, Blockchain and Smart Contracts, Artificial Intelligence, Data Cooperatives, and Metaverse**. 
 
 I obtained my Ph.D. in Computer Science and Engineering under the mentorship of [Prof. Dr. Ram Dantu](https://computerscience.engineering.unt.edu/people/faculty/ram-dantu) from [University of North Texas](https://computerscience.engineering.unt.edu/). 
 
@@ -23,6 +23,16 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
+* [12/24] Our paper "**Examining The Threat Landscape of Generative AI: Attack Vectors and Mitigation Strategies for LLMs**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA 
+
+* [12/24] Our paper "**Chain Your Loot: Implementing Blockchain Into Gaming Loot Box Markets**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA 
+
+* [12/24] Our paper "**A Big Data Optimization Comparison Using Apache Spark and Apache Airflow**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA 
+
+* [9/24] Our lab has been awarded a "**$5,000 Data Science Seed Grant**" from **Middle Tennessee State University** to advance our research 
+
+* [9/24] Our paper "**Bridging the Legal Divide: Contractual Enforceability and Acceptability in the AI-Driven Automated Conversion of Smart Legal Contracts**" got accepted at the <i> 6th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2024) </i> in Washington, DC, USA 
+
 * [5/24] Our paper "**VulnFusion: Exploiting Multimodal Representations for Advanced Smart Contract Vulnerability Detection**" got accepted at the <i> 6th International Conference on Blockchain Computing and Applications (BCCA 2024) </i> in Dubai, UAE 
 
 * [5/24] Our paper "**Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement**" got accepted at the <i> 21st International Conference on Security and Cryptography (SECRYPT 2024) </i> in Dijon, France 
