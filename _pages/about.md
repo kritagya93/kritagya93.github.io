@@ -19,7 +19,7 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## Openings
-<font color="DarkRed"> I am looking for self-motivated students (Ph.D., Masters, Undergraduate) to work and research on projects related to Blockchain and Smart Contracts, Cybersecurity, Natural Language Processing, Artificial Intelligence, Metaverse, and other various emerging hot topics. If you are interested and dedicated, please drop me an email with your CV. </font>
+<font color="DarkRed"> I am looking for self-motivated students (Ph.D., Masters, Undergraduate) to work and research on projects related to Blockchain and Smart Contracts, Cybersecurity, Natural Language Processing, Artificial Intelligence, Metaverse, Quantum Computing, and other various emerging hot topics. If you are interested and dedicated, please drop me an email with your CV. </font>
 
 
 ## News
