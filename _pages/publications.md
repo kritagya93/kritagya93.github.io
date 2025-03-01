@@ -5,27 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2024
-* Jiblal Upadhya, **Kritagya Upadhyay**, Arpan Sainju, Samir Poudel, Md Nahid Hasan, Khem Poudel, Jaishree Ranganathan, "VulnFusion: Exploiting Multimodal Representations for Advanced Smart Contract Vulnerability Detection," <i> 6th International Conference on Blockchain Computing and Applications (BCCA 2024), Dubai, UAE. </i>
+## 2025
+* Z. Taylor, A. Sharma and **K. Upadhyay**, "Examinig The Threat Landscape of Generative AI: Attack Vectors and Mitiation Strategies for LLMs," <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) <i>, University of Nevada, Las Vegas, USA.
 
-* Syed Badruddoja, Ram Dantu, Mark Dockendorf, Abiola Salau, **Kritagya Upadhyay**, "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement," <i> 21st International Conference on Security and Cryprography (SECRYPT 2024), Dijon, France. </i>
+* S. Ali, B. Robinson, S. Solomon, S. Poudel, A. Sharma and **K. Upadhyay**, "Chain Your Loot: Implementing Blockchain Into Gaming Loot Box Markets," <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) <i>, University of Nevada, Las Vegas, USA.
+
+* T. Hartman, S. Poudel, J. Upadhya, Md Nahid Hasan, K. Poudel and **K. Upadhyay**, "A Big Data Optimization Comparison Using Apache Spark and Apache Airflow," <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) <i>, University of Nevada, Las Vegas, USA.
+
+## 2024
+* S. Balaji, R. Dantu, **K. Upadhyay** and T. McCullough, "Bridging the Legal Divide: Contractual Enforceability and Acceptability in the AI-Driven Automated Conversion of Smart Legal Contracts," <i> 2024 IEEE 6th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA) </i>, Washington, DC, USA, 2024, pp. 128-137, doi: 10.1109/TPS-ISA62245.2024.00024. <br> Full text available at <a href="https://www.researchgate.net/publication/385943108_Bridging_the_Legal_Divide_Contractual_Enforceability_and_Acceptability_in_the_AI-Driven_Automated_Conversion_of_Smart_Legal_Contracts"> ResearchGate</a>.
+
+* J. Upadhya, A. Sainju, **K. Upadhyay**, S. Poudel, M.N. Hasan, K. Poudel and J. Ranganathan, "VulnFusion: Exploiting Multimodal Representations for Advanced Smart Contract Vulnerability Detection," <i> 2024 6th International Conference on Blockchain Computing and Applications (BCCA) </i> , Dubai, United Arab Emirates, 2024, pp. 505-515, doi: 10.1109/BCCA62388.2024.10844483. <br> Full text available at <a href="https://ieeexplore.ieee.org/document/10844483"> IEEE Xplore</a>.
+
+* Badruddoja, S., Dantu, R., Dockendorf, M., Salau, A. and **Upadhyay, K.** (2024). Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement. In <i> Proceedings of the 21st International Conference on Security and Cryptography (SECRYPT 2024) </i>, pages 786-791. DOI: 10.5220/0012813400003767. <br> Full text available at <a href="https://www.scitepress.org/Papers/2024/128134/128134.pdf"> SciTePress</a>
 
 * Harshit Kumar, **Kritagya Upadhyay**, "Decentralized Engagement: Blockchain's Lens on Social Media," <i> 6th International Congress on Blockchain and Applications (BLOCKCHAIN'24), Salamanca, Spain. </i>
 
-* Jiblal Upadhya, **Kritagya Upadhyay**, Arpan Sainju, Samir Poudel, Md Nahid Hasan, Khem Poudel, Jaishree Ranganathan, "QuadraCode AI: Smart Contract Vulnerability Detection with Multimodal Representation," <i> 33rd International Conference on Computer Communications and Networks (ICCCN 2024), Big Island, Hawaii, USA. </i>
+* J. Upadhya, **K. Upadhyay**, A. Sainju, S. Poudel, M.N. Hasan, K. Poudel and J. Ranganathan, "QuadraCode AI: Smart Contract Vulnerability Detection with Multimodal Representation," <i> 2024 33rd International Conference on Computer Communications and Networks (ICCCN) </i>, Kailua-Kona, HI, USA, 2024, pp. 1-9, doi: 10.1109/ICCCN61486.2024.10637655. <br> Full text available at <a href="https://www.researchgate.net/publication/382970546_QuadraCode_AI_Smart_Contract_Vulnerability_Detection_with_Multimodal_Representation"> ResearchGate</a>.
 
 * Thuan Nhan, **Kritagya Upadhyay**, and Khem Poudel. 2024. "Towards Patient-Centric Healthcare: Leveraging Blockchain for Electronic Health Records". <i> In Proceedings of the 2024 Computers and People Research Conference (SIGMIS-CPR '24), Murfreesboro, TN, USA </i>. Association for Computing Machinery, New York, NY, USA, Article 13, 1–8. https://doi.org/10.1145/3632634.3655883. <br> Full text available at <a href="https://www.researchgate.net/publication/380980308_Towards_Patient-Centric_Healthcare_Leveraging_Blockchain_for_Electronic_Health_Records"> ResearchGate</a>.
 
-* Matthew I. Swindall, **Kritagya Upadhyay**, James H. Brusuelas, Graham West, and John F. Wallin. 2024. "Smart Digital Edition Management: A Blockchain Framework for Papyrology". <i> In Proceedings of the 2024 Computers and People Research Conference (SIGMIS-CPR '24), Murfreesboro, TN, USA </i>. Association for Computing Machinery, New York, NY, USA, Article 11, 1–10. https://doi.org/10.1145/3632634.3655860. <br> Full text available at <a href="https://www.researchgate.net/publication/380990948_Smart_Digital_Edition_Management_A_Blockchain_Framework_for_Papyrology"> ResearchGate</a>.
+* Matthew I. Swindall, **Kritagya Upadhyay**, James H. Brusuelas, Graham West, and John F. Wallin. 2024. "Smart Digital Edition Management: A Blockchain Framework for Papyrology". In <i> Proceedings of the 2024 Computers and People Research Conference (SIGMIS-CPR '24), Murfreesboro, TN, USA </i>. Association for Computing Machinery, New York, NY, USA, Article 11, 1–10. https://doi.org/10.1145/3632634.3655860. <br> Full text available at <a href="https://www.researchgate.net/publication/380990948_Smart_Digital_Edition_Management_A_Blockchain_Framework_for_Papyrology"> ResearchGate</a>.
 
 
 ## 2023
 
 ---
 
-* S. Talapuru, R. Dantu, **K. Upadhyay**, S. Badruddoja, S. Zaman, “The Dark Side of the Metaverse: Why is it Falling Short of Expectations?,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> <br> Full text available at <a href="https://www.researchgate.net/publication/378278851_The_Dark_Side_of_the_Metaverse_Why_is_it_Falling_Short_of_Expectations"> ResearchGate</a>.
+* S. Talapuru, R. Dantu, **K. Upadhyay**, S. Badruddoja and S. Zaman, “The Dark Side of the Metaverse: Why is it Falling Short of Expectations?,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> <br> Full text available at <a href="https://www.researchgate.net/publication/378278851_The_Dark_Side_of_the_Metaverse_Why_is_it_Falling_Short_of_Expectations"> ResearchGate</a>.
 
-* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru, **K. Upadhyay**, “Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> <br> Full text available at <a href="https://www.researchgate.net/publication/378273987_Seamless_Asset_Exchange_in_Interconnected_Metaverses_Unraveling_On-Chain_Atomic_Swap"> ResearchGate</a>. <br> <b> <font color="DarkRed">Best Research Paper Award</font></b>
+* S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru and **K. Upadhyay**, “Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap,” <i> 2023 Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA) </i> <br> Full text available at <a href="https://www.researchgate.net/publication/378273987_Seamless_Asset_Exchange_in_Interconnected_Metaverses_Unraveling_On-Chain_Atomic_Swap"> ResearchGate</a>. <br> <b> <font color="DarkRed">Best Research Paper Award</font></b>
 
 * S. Zaman, R. Dantu, S. Badruddoja, S. Talapuru and **K. Upadhyay**, "Layerwise Interoperability in Metaverse: Key to Next-Generation Electronic Commerce," <i> 2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom) </i>, Kyoto, Japan, 2023, pp. 9-16, doi: 10.1109/MetaCom57706.2023.00018. <br> Full text available at <a href="https://www.researchgate.net/publication/374525395_Layerwise_Interoperability_in_Metaverse_Key_to_Next-Generation_Electronic_Commerce"> ResearchGate</a>.
 

@@ -29,7 +29,7 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 * [12/24] Our paper "**A Big Data Optimization Comparison Using Apache Spark and Apache Airflow**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
 
-* [9/24] Our lab has been awarded a "**$5,000 Data Science Seed Grant**" from **Middle Tennessee State University** to advance our research. 
+* [9/24] Our lab has been awarded a "**$5,000 Data Science Institute Seed Grant**" from **Middle Tennessee State University** to advance our research. 
 
 * [9/24] Our paper "**Bridging the Legal Divide: Contractual Enforceability and Acceptability in the AI-Driven Automated Conversion of Smart Legal Contracts**" got accepted at the <i> 6th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2024) </i> in Washington, DC, USA. 
 
