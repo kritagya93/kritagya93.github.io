@@ -5,9 +5,18 @@ permalink: /service/
 author_profile: true
 ---
 
+## Session Chair
+
+---
+* 33rd International Conference on Computer Communications and Networks (ICCCN 2024), Session Track 1
+
+
+
 ## Technical Program Committee Member
 
 ---
+* 7th International Congress on Blockchain and Applications (BLOCKCHAIN'25)
+* 15th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2025)
 * 5th International Conference on Blockchain Computing and Applications (BCCA 2023)
 
 
@@ -15,6 +24,7 @@ author_profile: true
 ## Ad-hoc Reviewer
 
 ---
+* 15th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2025)
 * Symmetry Journal, MDPI
 * ACM SIGMIS Computers and People Research 2024
 * 5th International Conference on Blockchain Computing and Applications (BCCA 2023)
@@ -27,4 +37,4 @@ author_profile: true
 
 ---
 * IEEE 
-* ACM Professional
+* ACM 
