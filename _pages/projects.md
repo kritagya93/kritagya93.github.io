@@ -12,7 +12,7 @@ This project will continue my current research, and I will keep on addressing th
 * **Aim 1:** Develop formal methodologies that consist of efficient models and algorithms that address current challenges in translating natural language contracts to smart legal contracts.
 * **Aim 2:** Investigate and incorporate the Type-2 Fuzzy Logic and Decision Tree algorithms that help in decision-making for the selection of the most suitable interpretation from a set of ambiguous words and phrases.
 * **Aim 3:** Explore on Contextual AI and NLP-based Fuzzy Logic and how it facilitates the automated generation of a realistic and feasible smart legal contract.
-* **Aim 4:** Explore on how LLMs such as ChatGPT can be used to understand the vague legal contracts and rank the interpretations.
+* **Aim 4:** Explore on how LLMs can be used to understand the vague legal contracts and rank the interpretations.
  
 ## Project 2: Blockchain for Trusted Artificial Intelligence
 
