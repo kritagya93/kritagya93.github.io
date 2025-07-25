@@ -23,7 +23,7 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
-* 🎉 [7/25] Our paper "**A Blockchain and IoT-Enabled Framework for Ethical and Secure Coffee Supply Chains**" got accepted for publication in the Future Internet (MDPI) open access journal.
+* 🎉 [7/25] Our paper "**A Blockchain and IoT-Enabled Framework for Ethical and Secure Coffee Supply Chains**" got accepted for publication in the <i> Future Internet (MDPI) </i> open access journal.
 
 * 🎉 [12/24] Our paper "**Examining The Threat Landscape of Generative AI: Attack Vectors and Mitigation Strategies for LLMs**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
 
