@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **MTSU Data Science Institute Seed Grant - $5,000**, Awarded by Middle Tennessee State University, 2024.  
+* **Principal Investigator (PI), MTSU Data Science Institute Seed Grant - $5,000**, Awarded by Middle Tennessee State University, 2024.  
 * **Best Poster Award, Hot Topics in the Science of Security (HotSoS) 2023**, Awarded by National Security Agency (NSA), 2023.
 * **Outstanding Ph.D. Student Award**, Awarded by Department of Computer Science and Engineering, University of North Texas, 2023.
 * **Best Research Paper Award**, Awarded at Fourth International Conference on Blockchain Computing & Applications, 2022.
