@@ -24,14 +24,16 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 ## News
 * 🎉 [7/25] Our paper "**A Blockchain and IoT-Enabled Framework for Ethical and Secure Coffee Supply Chains**" got accepted for publication in the <i> Future Internet (MDPI) </i> open access journal.
+  
+* 🎉 [4/19] Our paper "**Privacy Meets Conservation: Federated Learning's Revolution in Deforestation Detection**" got accepted at the 2025 IEEE Annual World AI IoT Congress (AIIoT).
 
-* 🎉 [12/24] Our paper "**Examining The Threat Landscape of Generative AI: Attack Vectors and Mitigation Strategies for LLMs**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
+* 🎉 [12/24] Our paper "**Examining The Threat Landscape of Generative AI: Attack Vectors and Mitigation Strategies for LLMs**" got accepted at the <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
 
-* 🎉 [12/24] Our paper "**Chain Your Loot: Implementing Blockchain Into Gaming Loot Box Markets**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
+* 🎉 [12/24] Our paper "**Chain Your Loot: Implementing Blockchain Into Gaming Loot Box Markets**" got accepted at the <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
 
-* 🎉 [12/24] Our paper "**A Big Data Optimization Comparison Using Apache Spark and Apache Airflow**" got accepted at the <i> 2025 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
+* 🎉 [12/24] Our paper "**A Big Data Optimization Comparison Using Apache Spark and Apache Airflow**" got accepted at the <i> 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) </i> in University of Nevada, Las Vegas, USA. 
 
-* 💰 [9/24] Our lab has been awarded a "**$5,000 Data Science Institute Seed Grant**" from **Middle Tennessee State University** to advance our research. 
+* 💰 [9/24] Our lab has been awarded a "**$5,000 Data Science Institute Seed Grant**" from **Middle Tennessee State University**, with myself as the Principal Investigator (PI), to advance our research. 
 
 * 🎉 [9/24] Our paper "**Bridging the Legal Divide: Contractual Enforceability and Acceptability in the AI-Driven Automated Conversion of Smart Legal Contracts**" got accepted at the <i> 6th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2024) </i> in Washington, DC, USA. 
 
