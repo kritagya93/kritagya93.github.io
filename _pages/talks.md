@@ -4,6 +4,7 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+* QuadraCode AI and VulnFusion: Deep Learning Multimodal Representations for Advanced Smart Contract Vulnerability Detection. <i> 2025 Tech Vision Conference, Jones College of Business, Middle Tennessee State University, Murfreesboro, TN, USA. </i>
 * Blockchain, Smart Contracts and Applications. <i> 2024 First ACM Chapter Meeting, Department of Computer Science, Middle Tennessee State University, Murfreesboro, TN, USA. </i>
 * Paradigm Shift from Vague Legal Contracts to Blockchain-based Smart Contracts. <i> 2023 CAE in Cybersecurity Symposium, Seattle, WA, USA.</i>
 * Auditing Metaverse Requires Multimodal Deep Learning. <i> The 4th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, Atlanta, GA, USA. </i>
