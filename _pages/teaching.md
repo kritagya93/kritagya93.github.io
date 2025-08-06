@@ -7,6 +7,7 @@ author_profile: true
 
 ## Middle Tennessee State University
 ---
+* CSCI 4450/5450 - Blockchain and Smart Contracts, Fall 2025.
 * CSCI 4710/5710 - Secure Software Systems, Spring 2025.
 * CSCI 1170 - Computer Science I, Spring 2025.
 * CSCI 1170 - Computer Science I, Fall 2024. 
