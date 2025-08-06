@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2025
-* J. Byrd, **K. Upadhyay**, S. Poudel, H. Sharma and Y. Gu, "A Blockchain and IoT‑Enabled Framework for Ethical and Secure Coffee Supply Chains," <i>Future Internet</i>, MDPI, vol. 17, no. 8, article 334, 2025. https://doi.org/10.3390/fi17080334 <br> Full text available at <a href="https://www.mdpi.com/1999-5903/17/8/334">MDPI</a>.
+* J. Byrd, **K. Upadhyay**, S. Poudel, H. Sharma and Y. Gu, "A Blockchain and IoT‑Enabled Framework for Ethical and Secure Coffee Supply Chains," <i>Future Internet</i>, MDPI, vol. 17, no. 8, article 334, 2025. https://doi.org/10.3390/fi17080334. <br> Full text available at <a href="https://www.mdpi.com/1999-5903/17/8/334">MDPI</a>.
 
 * S. Poudel, A. Sainju and **K. Upadhyay**, "Privacy Meets Conservation: Federated Learning's Revolution in Deforestation Detection," <i>2025 IEEE World AI IoT Congress (AIIoT)</i>, Seattle Convention Center, Seattle, WA, USA, 2025.
 
