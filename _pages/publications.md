@@ -23,7 +23,7 @@ author_profile: true
 
 * Badruddoja, S., Dantu, R., Dockendorf, M., Salau, A. and **Upadhyay, K.** (2024). Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement. In <i> Proceedings of the 21st International Conference on Security and Cryptography (SECRYPT 2024) </i>, pages 786-791. DOI: 10.5220/0012813400003767. <br> Full text available at <a href="https://www.scitepress.org/Papers/2024/128134/128134.pdf"> SciTePress</a>.
 
-* Harshit Kumar, **Kritagya Upadhyay**, "Decentralized Engagement: Blockchain's Lens on Social Media," <i> 6th International Congress on Blockchain and Applications (BLOCKCHAIN'24), Salamanca, Spain. </i>
+* Kumar, H., **Upadhyay, K.** (2025). Decentralized Engagement: Blockchain’s Lens on Social Media. In: Prieto, J., Vargas, R.P., Lage, O., Machado, J.M., Bálint, M. (eds) <i> Blockchain and Applications, 6th International Congress. BLOCKCHAIN 2024. </i> Lecture Notes in Networks and Systems, vol 1256. Springer, Cham. https://doi.org/10.1007/978-3-031-81928-5_27. <br> Full text available at <a href="https://www.researchgate.net/publication/389534915_Decentralized_Engagement_Blockchain's_Lens_on_Social_Media"> ResearchGate</a>. 
 
 * J. Upadhya, **K. Upadhyay**, A. Sainju, S. Poudel, M.N. Hasan, K. Poudel and J. Ranganathan, "QuadraCode AI: Smart Contract Vulnerability Detection with Multimodal Representation," <i> 2024 33rd International Conference on Computer Communications and Networks (ICCCN) </i>, Kailua-Kona, HI, USA, 2024, pp. 1-9, doi: 10.1109/ICCCN61486.2024.10637655. <br> Full text available at <a href="https://www.researchgate.net/publication/382970546_QuadraCode_AI_Smart_Contract_Vulnerability_Detection_with_Multimodal_Representation"> ResearchGate</a>.
 
