@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **Senior Personnel (NSF NRT-QISE-AI Award) – $2M, NRT-QISE-AI: Middle Tennessee Interdisciplinary Graduate Research and Training in Quantum   Information and AI (2025–2030)**, <br> **PI:** Wandi Ding; **Co-PIs:** Abdul-Qayyum Khaliq, Jing Kong, Joshua Phillips, Hanna Terletska </br> <b> **Senior Personnel:** Kritagya Upadhyay and Donglin Wang </br> <br> Awarded by National Science Foundation – NSF Research Traineeship (NRT). </br>
+* **Senior Personnel (NSF NRT-QISE-AI Award) – $2M, NRT-QISE-AI: Middle Tennessee Interdisciplinary Graduate Research and Training in Quantum   Information and AI (2025–2030)**, <br> **PI:** Wandi Ding; **Co-PIs:** Abdul-Qayyum Khaliq, Jing Kong, Joshua Phillips, Hanna Terletska </br> <b> **Senior Personnel:** Kritagya Upadhyay and Donglin Wang </br> Awarded by National Science Foundation – NSF Research Traineeship (NRT).
 * **Principal Investigator (PI), MTSU Data Science Institute Seed Grant - $5,000**, Awarded by Middle Tennessee State University, 2024. 
 * **Best Poster Award, Hot Topics in the Science of Security (HotSoS) 2023**, Awarded by National Security Agency (NSA), 2023.
 * **Outstanding Ph.D. Student Award**, Awarded by Department of Computer Science and Engineering, University of North Texas, 2023.
