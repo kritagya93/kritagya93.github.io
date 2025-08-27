@@ -23,7 +23,7 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
-* 💰 [8/25] Our team has been awarded the **NSF NRT-QISE-AI: Middle Tennessee Interdisciplinary Graduate Research and Training in Quantum Information and AI** ($2M, 2025–2030). I am serving as Senior Personnel on this award, alongside PI: Wandi Ding and Co-PIs: Abdul-Qayyum Khaliq, Jing Kong, Joshua Phillips, and Hanna Terletska, with Donglin Wang also as Senior Personnel. This NSF Research Traineeship (NRT) will advance interdisciplinary training and research in quantum information science and AI.
+* 🎉 [8/25] Our team has been awarded the **NSF NRT-QISE-AI: Middle Tennessee Interdisciplinary Graduate Research and Training in Quantum Information and AI** ($2M, 2025–2030). I am serving as Senior Personnel on this award, alongside PI: Wandi Ding and Co-PIs: Abdul-Qayyum Khaliq, Jing Kong, Joshua Phillips, and Hanna Terletska, with Donglin Wang also as Senior Personnel. This NSF Research Traineeship (NRT) will advance interdisciplinary training and research in quantum information science and AI.
 
 * 🎉 [7/25] Our paper "**A Blockchain and IoT-Enabled Framework for Ethical and Secure Coffee Supply Chains**" got accepted for publication in the <i> Future Internet (MDPI) </i> open access journal.
   
