@@ -23,6 +23,8 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
+* 🎉 [9/25] Our paper "**RBBD: A Representation-Based Framework for Edge-Case Backdoor Defense in Federated Learning**" got accepted for publication at the <i> 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2025) </i> in Pittsburgh, PA, USA. 
+  
 * 🎉 [8/25] Our team has been awarded the **NSF NRT-QISE-AI: Middle Tennessee Interdisciplinary Graduate Research and Training in Quantum Information and AI** ($2M, 2025–2030). I am serving as **Senior Personnel** on this award, alongside **PI:** Wandi Ding and **Co-PIs:** Abdul-Qayyum Khaliq, Jing Kong, Joshua Phillips, and Hanna Terletska, with Donglin Wang also as Senior Personnel. This NSF Research Traineeship (NRT) will advance interdisciplinary training and research in quantum information science and AI.
 
 * 🎉 [7/25] Our paper "**A Blockchain and IoT-Enabled Framework for Ethical and Secure Coffee Supply Chains**" got accepted for publication in the <i> Future Internet (MDPI) </i> open access journal.
@@ -50,8 +52,6 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 * 🎉 [3/24] Our paper "**Towards Patient-Centric Healthcare: Leveraging Blockchain for Electronic Health Records**" got accepted at the <i> SIGMIS-CPR '24: Proceedings of the 2024 Computers and People Research Conference </i> in Murfreesboro, Tennessee, USA.
 
 * 🎉 [3/24] Our paper "**Smart Digital Edition Management: A Blockchain Framework for Papyrology**" got accepted at the <i> SIGMIS-CPR '24: Proceedings of the 2024 Computers and People Research Conference </i> in Murfreesboro, Tennessee, USA. 
-
-* 🏆 [11/23] Second position awarded to MTSU Graduate Research Assistant Student **Samir Poudel** for his poster presentation on "**Empowering AI’s Trust and Big Data Resources in Healthcare Industry with Blockchain**" at the <i> 2023 ACM Mid-Southeast Conference </i> in Gatlinburg, Tennessee, USA.
 
 * 🏆 [11/23] Best Paper Award for "**Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap**" at the <i> 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2023) </i> in Atlanta, Georgia, USA. 
 
