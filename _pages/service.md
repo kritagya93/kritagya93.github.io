@@ -36,5 +36,6 @@ author_profile: true
 ## Professional Organization Member
 
 ---
-* IEEE 
-* ACM 
+* Professional Member, Institute of Electrical and Electronics Engineers (IEEE)
+* Member, IEEE Young Professionals Affinity Group
+* Member, Association for Computing Machinery (ACM) 
