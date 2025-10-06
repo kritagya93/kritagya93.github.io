@@ -68,6 +68,3 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 * 🏆 [5/23] Received **Outstanding Ph.D. Student Award** from the Department of Computer Science and Engineering, University of North Texas.
 
 * 🏆 [9/22] Best Paper Award for "**Making Smart Contracts Predict and Scale**" at the <i> 4th International Conference on Blockchain Computing and Applications (BCCA 2022) </i> in San Antonio, Texas, USA. 
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=6kiO4knL0L-W1Dr7uzUZE9dvCN1H6rOCcBovykJ7OpI&cl=ffffff&w=a"></script>
