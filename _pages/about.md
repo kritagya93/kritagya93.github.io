@@ -23,6 +23,8 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
+* 🎉 [11/25] I'm pleased to share that I am serving as a Guest Editor, alongside my friend Syed Badruddoja from California State University - Sacramento, for a Special Issue on "**Blockchain and Big Data Analytics**" in **Future Internet (MDPI)**. We're looking for high-quality research on blockchain frameworks, smart contracts, AI integration, privacy-preserving analytics, IoT, federated learning, cybersecurity, and related topics. More details can be found [here](https://www.mdpi.com/journal/futureinternet/special_issues/0YTEZL964D).
+
 * 🎉 [9/25] Our paper "**RBBD: A Representation-Based Framework for Edge-Case Backdoor Defense in Federated Learning**" got accepted for publication at the <i> 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2025) </i> in Pittsburgh, PA, USA. 
   
 * 🎉 [8/25] Our team has been awarded the **NSF NRT-QISE-AI: Middle Tennessee Interdisciplinary Graduate Research and Training in Quantum Information and AI** ($2M, 2025–2030). I am serving as **Senior Personnel** on this award, alongside **PI:** Wandi Ding and **Co-PIs:** Abdul-Qayyum Khaliq, Jing Kong, Joshua Phillips, and Hanna Terletska, with Donglin Wang also as Senior Personnel. This NSF Research Traineeship (NRT) will advance interdisciplinary training and research in quantum information science and AI.
