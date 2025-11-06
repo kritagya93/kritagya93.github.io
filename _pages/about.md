@@ -23,7 +23,7 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
-* 🎉 [11/25] I am pleased to share that I am serving as a Guest Editor, alongside my friend Syed Badruddoja from California State University - Sacramento, for a Special Issue on "**Blockchain and Big Data Analytics**" in **Future Internet (MDPI)**. We're looking for high-quality research on blockchain frameworks, smart contracts, AI integration, privacy-preserving analytics, IoT, federated learning, cybersecurity, and related topics. More details can be found [here](https://www.mdpi.com/journal/futureinternet/special_issues/0YTEZL964D).
+* 🎉 [11/25] I am pleased to share that I am serving as a Guest Editor, alongside my friend Syed Badruddoja from California State University - Sacramento, for a Special Issue on "**Blockchain and Big Data Analytics**" in **Future Internet (MDPI)**. We are looking for high-quality research on blockchain frameworks, smart contracts, AI integration, privacy-preserving analytics, IoT, federated learning, cybersecurity, and related topics. More details can be found [here](https://www.mdpi.com/journal/futureinternet/special_issues/0YTEZL964D).
 
 * 🎉 [9/25] Our paper "**RBBD: A Representation-Based Framework for Edge-Case Backdoor Defense in Federated Learning**" got accepted for publication at the <i> 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (IEEE TPS 2025) </i> in Pittsburgh, PA, USA. 
   
