@@ -5,25 +5,31 @@ permalink: /service/
 author_profile: true
 ---
 
+## Editorial Roles
+
+---
+* Guest Editor, Special Issue: Blockchain and Big Data Analytics, Future Internet Journal, MDPI (2025)
+
+  
 ## Session Chair
 
 ---
 * 33rd International Conference on Computer Communications and Networks (ICCCN 2024), Session Track 1
 
 
-
 ## Technical Program Committee Member
 
 ---
+* 16th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2026)
 * 7th International Congress on Blockchain and Applications (BLOCKCHAIN'25)
 * 15th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2025)
 * 5th International Conference on Blockchain Computing and Applications (BCCA 2023)
 
 
-
 ## Ad-hoc Reviewer
 
 ---
+* 16th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2026)
 * 15th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2025)
 * Symmetry Journal, MDPI
 * ACM SIGMIS Computers and People Research 2024
