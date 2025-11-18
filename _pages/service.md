@@ -8,6 +8,7 @@ author_profile: true
 ## Editorial Roles
 
 ---
+* Guest Editor, Special Issue: AI for Cybersecurity and Emerging Technologies for Secure Systems, Electronics Journal, MDPI (2025)
 * Guest Editor, Special Issue: Blockchain and Big Data Analytics, Future Internet Journal, MDPI (2025)
 
   
