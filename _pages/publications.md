@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2025
-* S. Poudel, **K. Upadhyay** and J. Upadhya, "RBBD: A Representation-Based Framework for Edge-Case Backdoor Defense in Federated Learning," <i>2025 IEEE 7th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA),<i/> Pittsburgh, PA, USA, 2025.
+* S. Poudel, **K. Upadhyay** and J. Upadhya, "RBBD: A Representation-Based Framework for Edge-Case Backdoor Defense in Federated Learning," <i>2025 IEEE 7th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA),<i/> Pittsburgh, PA, USA, 2025. <br> Full text available at <a href="#">Coming Soon!</a>.
 
 * J. Byrd, **K. Upadhyay**, S. Poudel, H. Sharma and Y. Gu, "A Blockchain and IoT‑Enabled Framework for Ethical and Secure Coffee Supply Chains," <i>Future Internet</i>, MDPI, vol. 17, no. 8, article 334, 2025. https://doi.org/10.3390/fi17080334. <br> Full text available at <a href="https://www.mdpi.com/1999-5903/17/8/334">MDPI</a>.
 
