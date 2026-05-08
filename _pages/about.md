@@ -22,6 +22,8 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
+* 🎉 [4/26] Our paper "**Who Owns the Land? Blockchain as the Answer to Corruption and Fraud**" got accepted for publication at the <i> 2026 IEEE World AI IoT Congress (AIIoT) </i> in Seattle Convention Center, USA.
+
 * 📝 [11/25] I am glad to share that Syed Badruddoja and I are serving as Guest Editors for another Special Issue on "**AI for Cybersecurity and Emerging Technologies for Secure Systems**" in **Electronics (MDPI)**. We are looking for high-quality research on AI-assisted, blockchain-enabled, and mathematically verifiable approaches that improve system reliability, trust, and data assurance. More details can be found [here](https://www.mdpi.com/journal/electronics/special_issues/3S73070YXV).
 
 * 📝 [11/25] I am pleased to share that I am serving as a Guest Editor, alongside my friend Syed Badruddoja from California State University - Sacramento, for a Special Issue on "**Blockchain and Big Data Analytics**" in **Future Internet (MDPI)**. We are looking for high-quality research on blockchain frameworks, smart contracts, AI integration, privacy-preserving analytics, IoT, federated learning, cybersecurity, and related topics. More details can be found [here](https://www.mdpi.com/journal/futureinternet/special_issues/0YTEZL964D).
