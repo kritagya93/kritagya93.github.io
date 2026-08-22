@@ -22,6 +22,8 @@ I invite you to read my [publications](https://scholar.google.com/citations?hl=e
 
 
 ## News
+* 🎉 [8/26] Our paper "**Transformative Shift in Nuclear Energy Monitoring Through Blockchain and Smart Contract Driven Transparency and Integrity**" got accepted for publication at the <i>2026 8th International Conference on Blockchain Computing and Applications (BCCA 2026)</i> in Barcelona, Spain.
+
 * 🎉 [4/26] Our paper "**Who Owns the Land? Blockchain as the Answer to Corruption and Fraud**" got accepted for publication at the <i> 2026 IEEE World AI IoT Congress (AIIoT) </i> in Seattle Convention Center, USA.
 
 * 📝 [11/25] I am glad to share that Syed Badruddoja and I are serving as Guest Editors for another Special Issue on "**AI for Cybersecurity and Emerging Technologies for Secure Systems**" in **Electronics (MDPI)**. We are looking for high-quality research on AI-assisted, blockchain-enabled, and mathematically verifiable approaches that improve system reliability, trust, and data assurance. More details can be found [here](https://www.mdpi.com/journal/electronics/special_issues/3S73070YXV).
