@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2026
-* S. Marahatta and **K. Upadhyay**, "Who Owns the Land? Blockchain as the Answer to Corruption and Fraud," <i>2026 IEEE World AI IoT Congress (AIIoT),</i> Seattle Convention Center, USA. <br> Full text available at <a href="#">Coming Soon!</a>.
+* S. Marahatta and **K. Upadhyay**, "Who Owns the Land? Blockchain as the Answer to Corruption and Fraud," <i>2026 IEEE World AI IoT Congress (AIIoT),</i> Seattle, WA, USA, 2026, pp. 0568-0574, doi: 10.1109/AIIoT68874.2026.11569548. <br> Full text available at <a href="https://www.researchgate.net/publication/407503407_Who_Owns_the_Land_Blockchain_as_the_Answer_to_Corruption_and_Fraud">ResearchGate</a>.
 
 ## 2025
 * S. Poudel, **K. Upadhyay** and J. Upadhya, "RBBD: A Representation-Based Framework for Edge-Case Backdoor Defense in Federated Learning," <i>2025 IEEE 7th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA),</i> Pittsburgh, PA, USA, 2025. <br> Full text available at <a href="https://www.researchgate.net/publication/401218506_RBBD_A_Representation-Based_Framework_for_Edge-Case_Backdoor_Defense_in_Federated_Learning">ResearchGate</a>.
