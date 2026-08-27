@@ -21,6 +21,8 @@ author_profile: true
 ## Technical Program Committee Member
 
 ---
+* 9th International Conference on Blockchain Technology and Applications (ICBTA 2026)
+* 8th International Congress on Blockchain and Applications (BLOCKCHAIN'26)
 * 16th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2026)
 * 7th International Congress on Blockchain and Applications (BLOCKCHAIN'25)
 * 15th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2025)
@@ -30,6 +32,7 @@ author_profile: true
 ## Ad-hoc Reviewer
 
 ---
+* 9th International Conference on Blockchain Technology and Applications (ICBTA 2026)
 * 16th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2026)
 * 15th Annual Computing and Communication Workshop and Conference (IEEE CCWC 2025)
 * Symmetry Journal, MDPI
